@@ -1,0 +1,6 @@
+{
+  "name": "Asesmen Perakitan Komputer SMK X",
+  "description": "Paket 50 Soal Latihan Asesmen Akademik TKA Perakitan Komputer SMK Kelas X TKJ: Pengujian & Troubleshooting, Kisi-Kisi, Kunci Jawaban, Simulasi CBT, dan Pembahasan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
